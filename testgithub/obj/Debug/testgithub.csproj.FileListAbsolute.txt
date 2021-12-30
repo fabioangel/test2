@@ -1,0 +1,10 @@
+C:\testgithub\testgithub\obj\Debug\testgithub.csproj.AssemblyReference.cache
+C:\testgithub\testgithub\obj\Debug\testgithub.Form1.resources
+C:\testgithub\testgithub\obj\Debug\testgithub.Properties.Resources.resources
+C:\testgithub\testgithub\obj\Debug\testgithub.csproj.GenerateResource.cache
+C:\testgithub\testgithub\obj\Debug\testgithub.csproj.CoreCompileInputs.cache
+C:\testgithub\testgithub\bin\Debug\testgithub.exe.config
+C:\testgithub\testgithub\bin\Debug\testgithub.exe
+C:\testgithub\testgithub\bin\Debug\testgithub.pdb
+C:\testgithub\testgithub\obj\Debug\testgithub.exe
+C:\testgithub\testgithub\obj\Debug\testgithub.pdb
